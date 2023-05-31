@@ -152,7 +152,7 @@ footer ul li{
     float: right;
 }
 /***********************CARD EXP**********/
-.gripexp{
+.gridexp{
     display: grid;
     grid-template-columns: repeat(4,350px);
     grid-gap: 10px;
