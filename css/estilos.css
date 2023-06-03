@@ -195,7 +195,7 @@ footer ul li{
     border-radius: 5px;
     border: 1px solid white;
 }
-.input[type="submit"]{
+input[type="submit"]{
     background-color: #222;
     border: 1px solid #ff03;
     color: white;
